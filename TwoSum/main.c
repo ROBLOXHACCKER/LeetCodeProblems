@@ -1,8 +1,11 @@
 #include <stdio.h>
-int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
-    while(*nums)
+int* twoSum(int* nums, int numsSize, int target, int* returnSize)
+{
+    int SumNum = 0;
+    int i = 0;
+    while(SumNum != returnSize)
     {
-
+        
     }
 }
 
